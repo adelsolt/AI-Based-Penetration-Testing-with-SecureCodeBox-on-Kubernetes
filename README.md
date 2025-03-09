@@ -12,7 +12,7 @@ The system is composed of an **Orchestrator Agent** and four specialized agents:
 - **Vulnerability Scanning Agent**
 - **Analysis & Exploitation Agent**
 
-This structure ensures clear role separation, modularity, and scalability while supporting asynchronous execution among agents.
+This structure ensures clear role separation,  modularity, and scalability while supporting asynchronous execution among agents.
                         ┌─────────────────────────┐
                         │      User Request       │
                         └──────────┬──────────────┘
