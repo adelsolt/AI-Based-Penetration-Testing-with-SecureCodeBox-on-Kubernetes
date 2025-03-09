@@ -1,0 +1,1497 @@
+[
+    {
+        "vulnerabilities": [
+            "directory traversal",
+            "mail-injection",
+            "logical errors",
+            "soap",
+            "hpp",
+            "session hijacking"
+        ],
+        "attacks": [
+            "zero-day attack",
+            "border gateway protocol hijacking attack",
+            "sql injection attack",
+            "open redirection attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "credential stuffing",
+            "session fixation",
+            "man in the middle"
+        ],
+        "attacks": [
+            "role base access controller attack",
+            "open redirection attack",
+            "border gateway protocol hijacking attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "cross site request forgery",
+            "lfi",
+            "local file inclusion",
+            "zero day"
+        ],
+        "attacks": [
+            "slowloris attack",
+            "large payload post attack",
+            "zero-day attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "security misconfiguration",
+            "unrestricted resource consumption",
+            "xpath injection",
+            "unrestricted access to sensitive business flows",
+            "hpp",
+            "cross site scripting",
+            "server side template injection",
+            "object injection"
+        ],
+        "attacks": [
+            "zero-day attack",
+            "sql injection attack",
+            "role base access controller attack",
+            "xss attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "insider threats",
+            "mail server",
+            "nosql-injection",
+            "unrestricted access to sensitive business flows",
+            "ldap injection",
+            "side channel",
+            "business email compromise",
+            "serverless function"
+        ],
+        "attacks": [
+            "zero-day attack",
+            "border gateway protocol hijacking attack",
+            "sql injection attack",
+            "role base access controller attack",
+            "slowloris attack",
+            "dos attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "path-traversal",
+            "form field manipulation",
+            "html form",
+            "multi resource",
+            "cross site request forgery",
+            "request input",
+            "unrestricted resource consumption",
+            "input fields"
+        ],
+        "attacks": [
+            "zero-day attack",
+            "sql injection attack",
+            "large payload post attack",
+            "border gateway protocol hijacking attack",
+            "slowloris attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "unrestricted access to sensitive business flows",
+            "sql-injection",
+            "insecure deserialization"
+        ],
+        "attacks": [
+            "role base access controller attack",
+            "sql injection attack",
+            "zero-day attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "webhooks and callbacks",
+            "fingerprinting",
+            "exploiting know vulnerabilities",
+            "http host header",
+            "security misconfiguration",
+            "object injection",
+            "credential stuffing",
+            "header manipulation"
+        ],
+        "attacks": [
+            "slowloris attack",
+            "role base access controller attack",
+            "zero-day attack",
+            "open redirection attack",
+            "border gateway protocol hijacking attack",
+            "sql injection attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "unrestricted cors",
+            "broken object level authorization",
+            "rfi",
+            "object injection",
+            "zero day",
+            "exploiting know vulnerabilities",
+            "csrf"
+        ],
+        "attacks": [
+            "xss attack",
+            "role base access controller attack",
+            "border gateway protocol hijacking attack",
+            "sql injection attack",
+            "zero-day attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "broken function level authorization",
+            "html form",
+            "ssrf",
+            "fingerprinting"
+        ],
+        "attacks": [
+            "role base access controller attack",
+            "sql injection attack",
+            "large payload post attack",
+            "slowloris attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "content spoofing",
+            "input fields",
+            "mass assignment",
+            "sensitive data exposure",
+            "huge payload",
+            "http host header"
+        ],
+        "attacks": [
+            "border gateway protocol hijacking attack",
+            "sql injection attack",
+            "large payload post attack",
+            "role base access controller attack",
+            "open redirection attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "exploiting know vulnerabilities",
+            "ss-include",
+            "fingerprinting",
+            "session side-jacking",
+            "side channel",
+            "remote file inclusion"
+        ],
+        "attacks": [
+            "zero-day attack",
+            "role base access controller attack",
+            "border gateway protocol hijacking attack",
+            "open redirection attack",
+            "slowloris attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "http query",
+            "session hijacking",
+            "broken object property level authorization",
+            "credential stuffing",
+            "security misconfiguration",
+            "input form",
+            "lfi",
+            "mass assignment",
+            "big return data"
+        ],
+        "attacks": [
+            "sql injection attack",
+            "large payload post attack",
+            "border gateway protocol hijacking attack",
+            "open redirection attack",
+            "role base access controller attack",
+            "zero-day attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "remote file inclusion",
+            "content spoofing",
+            "cross site scripting",
+            "mysql server",
+            "local file inclusion",
+            "big return data",
+            "security misconfiguration"
+        ],
+        "attacks": [
+            "border gateway protocol hijacking attack",
+            "xss attack",
+            "sql injection attack",
+            "large payload post attack",
+            "zero-day attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "session fixation",
+            "credential stuffing"
+        ],
+        "attacks": [
+            "open redirection attack",
+            "role base access controller attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "brute force",
+            "fingerprinting",
+            "canonicalization",
+            "session side-jacking",
+            "bypassing captcha",
+            "no header token",
+            "docker image",
+            "community-xss",
+            "header manipulation"
+        ],
+        "attacks": [
+            "dos attack",
+            "slowloris attack",
+            "role base access controller attack",
+            "large payload post attack",
+            "border gateway protocol hijacking attack",
+            "open redirection attack",
+            "zero-day attack",
+            "xss attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "ddos"
+        ],
+        "attacks": [
+            "dos attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "remote file inclusion"
+        ],
+        "attacks": [
+            "border gateway protocol hijacking attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "excessive permissions",
+            "path-traversal"
+        ],
+        "attacks": [
+            "role base access controller attack",
+            "zero-day attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "input form",
+            "html form",
+            "dns spoofing",
+            "content spoofing",
+            "data validation",
+            "form field manipulation",
+            "unrestricted access to sensitive business flows",
+            "exploiting know vulnerabilities",
+            "unrestricted api endpoints"
+        ],
+        "attacks": [
+            "sql injection attack",
+            "large payload post attack",
+            "border gateway protocol hijacking attack",
+            "role base access controller attack",
+            "zero-day attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "xpath injection"
+        ],
+        "attacks": [
+            "sql injection attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "lack of two factor authentication",
+            "security misconfiguration",
+            "local file inclusion",
+            "business email compromise"
+        ],
+        "attacks": [
+            "role base access controller attack",
+            "zero-day attack",
+            "large payload post attack",
+            "border gateway protocol hijacking attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "session fixation"
+        ],
+        "attacks": [
+            "open redirection attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "local file inclusion",
+            "exploiting know vulnerabilities"
+        ],
+        "attacks": [
+            "large payload post attack",
+            "zero-day attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "insider threats",
+            "side channel"
+        ],
+        "attacks": [
+            "zero-day attack",
+            "slowloris attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "unsafe consumption of apis",
+            "third party dependency",
+            "ddos",
+            "insecure third party dependencies",
+            "data filtration",
+            "logical errors",
+            "business logic",
+            "elevation of privilege"
+        ],
+        "attacks": [
+            "zero-day attack",
+            "border gateway protocol hijacking attack",
+            "dos attack",
+            "role base access controller attack",
+            "large payload post attack",
+            "sql injection attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "buffer overflow",
+            "broken access control",
+            "security misconfiguration",
+            "big return data",
+            "no header token",
+            "logical errors",
+            "xss-scripting",
+            "sensitive data exposure",
+            "business email compromise"
+        ],
+        "attacks": [
+            "large payload post attack",
+            "role base access controller attack",
+            "zero-day attack",
+            "xss attack",
+            "border gateway protocol hijacking attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "unrestricted api endpoints",
+            "side channel"
+        ],
+        "attacks": [
+            "role base access controller attack",
+            "slowloris attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "big return data",
+            "local file inclusion",
+            "bypassing captcha",
+            "form field manipulation",
+            "side channel",
+            "server side template injection",
+            "unsafe consumption of apis",
+            "dns spoofing"
+        ],
+        "attacks": [
+            "large payload post attack",
+            "sql injection attack",
+            "slowloris attack",
+            "zero-day attack",
+            "border gateway protocol hijacking attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "nosql-injection"
+        ],
+        "attacks": [
+            "sql injection attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "brute force",
+            "canonicalization",
+            "insecure third party dependencies",
+            "ss-include",
+            "server side request forgery"
+        ],
+        "attacks": [
+            "dos attack",
+            "slowloris attack",
+            "large payload post attack",
+            "border gateway protocol hijacking attack",
+            "role base access controller attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "session replay",
+            "input form",
+            "xpath injection"
+        ],
+        "attacks": [
+            "slowloris attack",
+            "sql injection attack",
+            "large payload post attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "broken object level authorization",
+            "mail server",
+            "request input",
+            "path-traversal",
+            "broken object property level authorization",
+            "on container image",
+            "docker image"
+        ],
+        "attacks": [
+            "role base access controller attack",
+            "border gateway protocol hijacking attack",
+            "sql injection attack",
+            "zero-day attack",
+            "dos attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "insecure direct object references",
+            "http verb tampering",
+            "injection attacks",
+            "broken session management",
+            "logical errors",
+            "nosql-injection",
+            "lack of two factor authentication"
+        ],
+        "attacks": [
+            "zero-day attack",
+            "sql injection attack",
+            "role base access controller attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "rfi",
+            "xss-scripting",
+            "header manipulation",
+            "serverless function"
+        ],
+        "attacks": [
+            "border gateway protocol hijacking attack",
+            "xss attack",
+            "open redirection attack",
+            "dos attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "path-traversal",
+            "ssrf",
+            "os version",
+            "hpp"
+        ],
+        "attacks": [
+            "zero-day attack",
+            "slowloris attack",
+            "dos attack",
+            "sql injection attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "insecure third party dependencies",
+            "huge payload"
+        ],
+        "attacks": [
+            "border gateway protocol hijacking attack",
+            "large payload post attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "input validation",
+            "webhooks and callbacks"
+        ],
+        "attacks": [
+            "sql injection attack",
+            "large payload post attack",
+            "slowloris attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "business email compromise",
+            "mass assignment",
+            "multi resource",
+            "input fields",
+            "server side template injection",
+            "clickjacking"
+        ],
+        "attacks": [
+            "border gateway protocol hijacking attack",
+            "large payload post attack",
+            "sql injection attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "ssrf",
+            "unrestricted cors",
+            "no header token",
+            "cross site request forgery",
+            "broken object level authorization"
+        ],
+        "attacks": [
+            "slowloris attack",
+            "xss attack",
+            "role base access controller attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "session side-jacking",
+            "cross site request forgery",
+            "ssrf"
+        ],
+        "attacks": [
+            "border gateway protocol hijacking attack",
+            "open redirection attack",
+            "slowloris attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "input validation"
+        ],
+        "attacks": [
+            "sql injection attack",
+            "large payload post attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "side channel",
+            "ssrf",
+            "unrestricted api endpoints",
+            "request input",
+            "form field manipulation",
+            "dos",
+            "insecure deserialization",
+            "input validation"
+        ],
+        "attacks": [
+            "slowloris attack",
+            "role base access controller attack",
+            "sql injection attack",
+            "large payload post attack",
+            "dos attack",
+            "zero-day attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "authentication lack",
+            "credential stuffing"
+        ],
+        "attacks": [
+            "role base access controller attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "insecure third party dependencies",
+            "server side template injection",
+            "email header injection",
+            "insecure file uploads",
+            "business logic",
+            "unsafe consumption of apis",
+            "ss-include",
+            "http parameter pollution"
+        ],
+        "attacks": [
+            "border gateway protocol hijacking attack",
+            "sql injection attack",
+            "large payload post attack",
+            "zero-day attack",
+            "role base access controller attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "ldap injection",
+            "unrestricted cors",
+            "server side template injection",
+            "xpath injection",
+            "improper inventory management",
+            "path-traversal",
+            "exploiting know vulnerabilities",
+            "canonicalization",
+            "sql-injection"
+        ],
+        "attacks": [
+            "sql injection attack",
+            "xss attack",
+            "zero-day attack",
+            "large payload post attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "fingerprinting",
+            "insecure direct object references",
+            "insufficient monitoring",
+            "credential stuffing",
+            "html form"
+        ],
+        "attacks": [
+            "role base access controller attack",
+            "zero-day attack",
+            "sql injection attack",
+            "large payload post attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "path-traversal",
+            "ldap injection",
+            "data filtration",
+            "dos",
+            "lfi",
+            "canonicalization",
+            "cors",
+            "broken function level authorization"
+        ],
+        "attacks": [
+            "zero-day attack",
+            "sql injection attack",
+            "role base access controller attack",
+            "large payload post attack",
+            "dos attack",
+            "xss attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "big return data",
+            "insufficient logging",
+            "html form",
+            "broken access control",
+            "os version",
+            "server side template injection",
+            "http parameter pollution",
+            "huge payload",
+            "improper inventory management"
+        ],
+        "attacks": [
+            "large payload post attack",
+            "zero-day attack",
+            "sql injection attack",
+            "role base access controller attack",
+            "dos attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "remote file inclusion",
+            "ss-include",
+            "rfi",
+            "dns spoofing",
+            "insufficient monitoring",
+            "webhooks and callbacks",
+            "community-xss",
+            "exploiting know vulnerabilities"
+        ],
+        "attacks": [
+            "border gateway protocol hijacking attack",
+            "role base access controller attack",
+            "zero-day attack",
+            "slowloris attack",
+            "xss attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "form field manipulation",
+            "ssrf",
+            "csrf",
+            "broken function level authorization"
+        ],
+        "attacks": [
+            "sql injection attack",
+            "large payload post attack",
+            "slowloris attack",
+            "xss attack",
+            "role base access controller attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "insufficient logging",
+            "mass assignment"
+        ],
+        "attacks": [
+            "zero-day attack",
+            "large payload post attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "logical errors",
+            "no header token"
+        ],
+        "attacks": [
+            "zero-day attack",
+            "role base access controller attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "data validation",
+            "lfi",
+            "logical errors",
+            "insecure file uploads",
+            "elevation of privilege",
+            "unrestricted cors",
+            "csrf",
+            "huge payload",
+            "session side-jacking"
+        ],
+        "attacks": [
+            "sql injection attack",
+            "large payload post attack",
+            "zero-day attack",
+            "role base access controller attack",
+            "xss attack",
+            "border gateway protocol hijacking attack",
+            "open redirection attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "third party dependency",
+            "local file inclusion",
+            "server side reqeust forgery",
+            "multi resource"
+        ],
+        "attacks": [
+            "border gateway protocol hijacking attack",
+            "large payload post attack",
+            "slowloris attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "unrestricted access to sensitive business flows"
+        ],
+        "attacks": [
+            "role base access controller attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "form field manipulation",
+            "credential stuffing",
+            "ldap injection",
+            "server side request forgery",
+            "unrestricted cors",
+            "community-xss",
+            "vm version",
+            "broken authentication",
+            "http path"
+        ],
+        "attacks": [
+            "sql injection attack",
+            "large payload post attack",
+            "role base access controller attack",
+            "slowloris attack",
+            "xss attack",
+            "dos attack",
+            "zero-day attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "xss-scripting",
+            "request path",
+            "os version",
+            "broken function level authorization",
+            "docker image"
+        ],
+        "attacks": [
+            "xss attack",
+            "sql injection attack",
+            "dos attack",
+            "zero-day attack",
+            "role base access controller attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "email header injection",
+            "http parameter pollution"
+        ],
+        "attacks": [
+            "sql injection attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "xpath injection",
+            "input fields",
+            "2fa",
+            "insider threats",
+            "fingerprinting",
+            "cors",
+            "insufficient monitoring",
+            "buffer overflow",
+            "ssrf"
+        ],
+        "attacks": [
+            "sql injection attack",
+            "large payload post attack",
+            "role base access controller attack",
+            "zero-day attack",
+            "xss attack",
+            "slowloris attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "security misconfiguration",
+            "input form",
+            "xss-scripting"
+        ],
+        "attacks": [
+            "zero-day attack",
+            "sql injection attack",
+            "large payload post attack",
+            "xss attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "form field manipulation",
+            "remote file inclusion",
+            "logical errors",
+            "exploiting know vulnerabilities",
+            "mail-injection",
+            "insecure deserialization"
+        ],
+        "attacks": [
+            "sql injection attack",
+            "large payload post attack",
+            "border gateway protocol hijacking attack",
+            "zero-day attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "mass assignment",
+            "server side reqeust forgery",
+            "mail-injection",
+            "cross site request forgery",
+            "insecure third party dependencies"
+        ],
+        "attacks": [
+            "large payload post attack",
+            "slowloris attack",
+            "border gateway protocol hijacking attack",
+            "sql injection attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "fingerprinting",
+            "credential stuffing"
+        ],
+        "attacks": [
+            "role base access controller attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "dns spoofing",
+            "xss-scripting",
+            "serverless function",
+            "sensitive data exposure"
+        ],
+        "attacks": [
+            "border gateway protocol hijacking attack",
+            "xss attack",
+            "dos attack",
+            "role base access controller attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "request input",
+            "broken object property level authorization",
+            "cookie poisoning",
+            "zero day",
+            "injection attacks",
+            "dos",
+            "api versioning"
+        ],
+        "attacks": [
+            "sql injection attack",
+            "role base access controller attack",
+            "open redirection attack",
+            "zero-day attack",
+            "dos attack",
+            "slowloris attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "ddos",
+            "business logic",
+            "ss-include",
+            "excessive permissions",
+            "server side template injection",
+            "sql-injection",
+            "sensitive data exposure",
+            "logical errors",
+            "on container image"
+        ],
+        "attacks": [
+            "dos attack",
+            "zero-day attack",
+            "role base access controller attack",
+            "sql injection attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "unrestricted access to sensitive business flows",
+            "http verb tampering",
+            "improper inventory management",
+            "dns spoofing",
+            "insecure deserialization"
+        ],
+        "attacks": [
+            "role base access controller attack",
+            "zero-day attack",
+            "border gateway protocol hijacking attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "input validation",
+            "docker image",
+            "broken authentication"
+        ],
+        "attacks": [
+            "sql injection attack",
+            "large payload post attack",
+            "dos attack",
+            "zero-day attack",
+            "role base access controller attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "credential stuffing",
+            "zero day",
+            "broken session management",
+            "logical errors",
+            "lack of two factor authentication",
+            "community-xss",
+            "cross site request forgery",
+            "fingerprinting",
+            "sql-injection"
+        ],
+        "attacks": [
+            "role base access controller attack",
+            "zero-day attack",
+            "xss attack",
+            "slowloris attack",
+            "sql injection attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "session replay",
+            "session hijacking",
+            "webhooks and callbacks",
+            "credential stuffing",
+            "server side template injection",
+            "email header injection",
+            "xml external entity"
+        ],
+        "attacks": [
+            "slowloris attack",
+            "border gateway protocol hijacking attack",
+            "open redirection attack",
+            "role base access controller attack",
+            "sql injection attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "nosql-injection",
+            "header manipulation"
+        ],
+        "attacks": [
+            "sql injection attack",
+            "open redirection attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "local file inclusion",
+            "data validation",
+            "mysql server",
+            "form field manipulation",
+            "cross site request forgery",
+            "session fixation",
+            "input fields",
+            "no header token"
+        ],
+        "attacks": [
+            "large payload post attack",
+            "sql injection attack",
+            "border gateway protocol hijacking attack",
+            "slowloris attack",
+            "open redirection attack",
+            "role base access controller attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "unrestricted resource consumption",
+            "unrestricted cors",
+            "vm version",
+            "input fields",
+            "cross site request forgery",
+            "dns spoofing",
+            "unsafe consumption of apis",
+            "input validation"
+        ],
+        "attacks": [
+            "zero-day attack",
+            "xss attack",
+            "dos attack",
+            "sql injection attack",
+            "large payload post attack",
+            "slowloris attack",
+            "border gateway protocol hijacking attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "insecure deserialization",
+            "broken authentication"
+        ],
+        "attacks": [
+            "zero-day attack",
+            "role base access controller attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "form field manipulation",
+            "lack of rate limiting"
+        ],
+        "attacks": [
+            "sql injection attack",
+            "large payload post attack",
+            "dos attack",
+            "slowloris attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "lack of rate limiting"
+        ],
+        "attacks": [
+            "dos attack",
+            "slowloris attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "object injection",
+            "soap",
+            "authentication lack",
+            "dos",
+            "webhooks and callbacks",
+            "man in the middle",
+            "multi resource",
+            "injection attacks",
+            "input form"
+        ],
+        "attacks": [
+            "sql injection attack",
+            "open redirection attack",
+            "role base access controller attack",
+            "dos attack",
+            "slowloris attack",
+            "border gateway protocol hijacking attack",
+            "large payload post attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "lfi",
+            "object injection",
+            "sql-injection",
+            "security misconfiguration",
+            "business logic"
+        ],
+        "attacks": [
+            "large payload post attack",
+            "sql injection attack",
+            "zero-day attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "cross site request forgery",
+            "broken function level authorization",
+            "remote file inclusion",
+            "soap",
+            "server side template injection",
+            "insecure third party dependencies"
+        ],
+        "attacks": [
+            "slowloris attack",
+            "role base access controller attack",
+            "border gateway protocol hijacking attack",
+            "open redirection attack",
+            "sql injection attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "cors",
+            "csrf",
+            "broken function level authorization",
+            "insecure deserialization",
+            "broken authentication",
+            "community-xss",
+            "soap"
+        ],
+        "attacks": [
+            "xss attack",
+            "role base access controller attack",
+            "zero-day attack",
+            "open redirection attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "session replay",
+            "input form",
+            "rfi",
+            "broken object property level authorization",
+            "server side template injection",
+            "fingerprinting",
+            "excessive permissions",
+            "broken object level authorization"
+        ],
+        "attacks": [
+            "slowloris attack",
+            "sql injection attack",
+            "large payload post attack",
+            "border gateway protocol hijacking attack",
+            "role base access controller attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "serverless function",
+            "canonicalization",
+            "huge payload",
+            "sql-injection",
+            "remote file inclusion"
+        ],
+        "attacks": [
+            "dos attack",
+            "large payload post attack",
+            "sql injection attack",
+            "border gateway protocol hijacking attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "sql-injection",
+            "header manipulation",
+            "clickjacking",
+            "unrestricted api endpoints",
+            "multi resource",
+            "insufficient monitoring"
+        ],
+        "attacks": [
+            "sql injection attack",
+            "open redirection attack",
+            "border gateway protocol hijacking attack",
+            "role base access controller attack",
+            "zero-day attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "ldap injection",
+            "server side template injection"
+        ],
+        "attacks": [
+            "sql injection attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "cookie poisoning",
+            "insecure third party libraries",
+            "server side template injection",
+            "ldap injection",
+            "header manipulation"
+        ],
+        "attacks": [
+            "open redirection attack",
+            "border gateway protocol hijacking attack",
+            "zero-day attack",
+            "sql injection attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "huge payload",
+            "insecure third party dependencies",
+            "unrestricted access to sensitive business flows",
+            "cross site scripting"
+        ],
+        "attacks": [
+            "large payload post attack",
+            "border gateway protocol hijacking attack",
+            "role base access controller attack",
+            "xss attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "2fa",
+            "no header token",
+            "insecure deserialization",
+            "docker image",
+            "dns spoofing",
+            "local file inclusion",
+            "request input"
+        ],
+        "attacks": [
+            "role base access controller attack",
+            "zero-day attack",
+            "dos attack",
+            "border gateway protocol hijacking attack",
+            "large payload post attack",
+            "sql injection attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "third party dependency",
+            "insider threats",
+            "os version",
+            "content spoofing"
+        ],
+        "attacks": [
+            "border gateway protocol hijacking attack",
+            "zero-day attack",
+            "dos attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "docker image",
+            "server side request forgery",
+            "insider threats",
+            "vm version",
+            "xml external entity"
+        ],
+        "attacks": [
+            "dos attack",
+            "zero-day attack",
+            "slowloris attack",
+            "sql injection attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "unrestricted resource consumption"
+        ],
+        "attacks": [
+            "zero-day attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "unsafe consumption of apis",
+            "server side request forgery",
+            "request path",
+            "sql-injection",
+            "lfi",
+            "os version",
+            "excessive permissions",
+            "http query",
+            "business email compromise"
+        ],
+        "attacks": [
+            "zero-day attack",
+            "slowloris attack",
+            "sql injection attack",
+            "large payload post attack",
+            "dos attack",
+            "role base access controller attack",
+            "border gateway protocol hijacking attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "excessive permissions",
+            "request path",
+            "insecure third party dependencies",
+            "zero day",
+            "no header token",
+            "on container image",
+            "authentication lack",
+            "docker image"
+        ],
+        "attacks": [
+            "role base access controller attack",
+            "sql injection attack",
+            "border gateway protocol hijacking attack",
+            "zero-day attack",
+            "dos attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "broken session management",
+            "docker image",
+            "input fields",
+            "unrestricted cors"
+        ],
+        "attacks": [
+            "role base access controller attack",
+            "dos attack",
+            "zero-day attack",
+            "sql injection attack",
+            "large payload post attack",
+            "xss attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "canonicalization",
+            "insecure third party libraries",
+            "excessive permissions",
+            "ss-include",
+            "unrestricted access to sensitive business flows",
+            "serverless function",
+            "server side request forgery"
+        ],
+        "attacks": [
+            "large payload post attack",
+            "border gateway protocol hijacking attack",
+            "open redirection attack",
+            "zero-day attack",
+            "role base access controller attack",
+            "dos attack",
+            "slowloris attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "unsafe consumption of apis",
+            "request path",
+            "race conditions",
+            "insecure deserialization"
+        ],
+        "attacks": [
+            "zero-day attack",
+            "sql injection attack",
+            "slowloris attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "http response splitting",
+            "insecure direct object references",
+            "credential stuffing",
+            "no header token",
+            "excessive permissions"
+        ],
+        "attacks": [
+            "zero-day attack",
+            "role base access controller attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "server side reqeust forgery",
+            "multi resource",
+            "third party dependency",
+            "xss-scripting"
+        ],
+        "attacks": [
+            "slowloris attack",
+            "border gateway protocol hijacking attack",
+            "xss attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "hpp",
+            "elevation of privilege",
+            "header manipulation"
+        ],
+        "attacks": [
+            "sql injection attack",
+            "role base access controller attack",
+            "open redirection attack"
+        ]
+    },
+    {
+        "vulnerabilities": [
+            "unrestricted cors",
+            "os version"
+        ],
+        "attacks": [
+            "xss attack",
+            "dos attack",
+            "zero-day attack"
+        ]
+    }
+]
