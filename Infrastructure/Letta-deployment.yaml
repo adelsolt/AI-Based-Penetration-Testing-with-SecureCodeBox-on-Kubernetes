@@ -1,0 +1,67 @@
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: letta-pvc
+  namespace: letta-server
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 1Gi
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: letta-deployment
+  namespace: letta-server
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: letta
+  template:
+    metadata:
+      labels:
+        app: letta
+    spec:
+      containers:
+      - name: letta
+        image: letta/letta:latest
+        ports:
+        - containerPort: 8283
+        env:
+        - name: OPENAI_API_KEY
+          valueFrom:
+            secretKeyRef:
+              name: letta-secrets
+              key: OPENAI_API_KEY
+        - name: SECURE
+          value: "true"
+        - name: LETTA_SERVER_PASSWORD
+          valueFrom:
+            secretKeyRef:
+              name: letta-secrets
+              key: LETTA_SERVER_PASSWORD
+        volumeMounts:
+        - name: pgdata
+          mountPath: /var/lib/postgresql/data
+      volumes:
+      - name: pgdata
+        persistentVolumeClaim:
+          claimName: letta-pvc
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: letta-service
+  namespace: letta-server
+spec:
+  selector:
+    app: letta
+  ports:
+  - name: http
+    port: 8283
+    targetPort: 8283
+  type: NodePort
